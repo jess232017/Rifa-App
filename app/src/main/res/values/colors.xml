@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="editTextColorWhite">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="black">#000000</color>
+    <color name="grey_500">#ff37474f</color>
+    <color name="blue">#344EDA</color>
+    <color name="red">#F44336</color>
+    <color name="cyan">#2196F3</color>
+    <color name="grey_5">#fff2f2f2</color>
+    <color name="indigo_800_overlay">#e6283593</color>
+    <color name="grey_40">#ff999999</color>
+    <color name="grey_90">#ff263238</color>
+    <color name="overlay_light_40">#66ffffff</color>
+    <color name="deep_orange_500">#ffff5722</color>
+    <color name="orange_500">#ffff9800</color>
+    <color name="grey_60">#ff666666</color>
+    <color name="green_400">#ff66bb6a</color>
+    <color name="blue_300">#ff64b5f6</color>
+    <color name="grey_80">#ff37474f</color>
+    <color name="grey_10">#ffe6e6e6</color>
+    <color name="overlay_light_50">#8ffffff0</color>
+    <color name="grey_20">#ffcccccc</color>
+</resources>

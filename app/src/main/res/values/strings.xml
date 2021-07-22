@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Winner Nica</string>
+    <string name="name">Nombre</string>
+    <string name="pago">pago?</string>
+    <string name="text_button_login">Ingresar</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nombre">Nombre</string>
+    <string name="forma_de_pago">Forma de Pago</string>
+    <string name="numero">NUMERO</string>
+    <string name="delete_image">imagen borrar</string>
+    <string name="add_image">copy_page</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="title">Titulo</string>
+    <string name="description">Premio</string>
+    <string name="agregar">Nueva Rifa</string>
+    <string name="Premio">Premio</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Imagen">Imagen</string>
+    <string name="Titulo">Titulo</string>
+    <string name="buscar">Buscar</string>
+    <string name="ver">Ver</string>
+    <string name="valor">Valor de la accion</string>
+    <string name="conf">Configuracion</string>
+    <string name="guardar">Guardar</string>
+    <string name="estadisticas">ESTADISTICAS</string>
+    <string name="ganancias">Ganancias</string>
+    <string name="_730">$ 730</string>
+    <string name="recaudado">Recaudado</string>
+    <string name="otros_datos">Otros Datos</string>
+    <string name="nulo">nulo</string>
+    <string name="_4_100_numeros">4/100 Numeros</string>
+    <string name="total">Total</string>
+    <string name="pendiente">Pendiente</string>
+    <string name="General">Informacion</string>
+
+    <string-array name="PAGO">
+        <item>Vacio</item>
+        <item>Pendiente</item>
+        <item>Pagado</item>
+    </string-array>
+</resources>
