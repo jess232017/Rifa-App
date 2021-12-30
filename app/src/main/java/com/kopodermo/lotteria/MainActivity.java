@@ -2,8 +2,8 @@ package com.kopodermo.lotteria;
 
 import android.content.Intent;
 import android.database.Cursor;
-import android.support.design.widget.TextInputEditText;
-import android.support.v7.app.AppCompatActivity;
+import com.google.android.material.textfield.TextInputEditText;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
